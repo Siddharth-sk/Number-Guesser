@@ -23,4 +23,4 @@ The game includes difficulty levels, scoring, and randomly generated clues to ma
 ## ▶️ How to Play
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Siddharth_sk/number-guessing-game-python.git
+   git clone [https://github.com/Siddharth_sk/number-guessing-game-python.git](https://github.com/Siddharth-sk/Number-Guesser)
