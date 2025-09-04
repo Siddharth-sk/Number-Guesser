@@ -1,26 +1,28 @@
 # Number Guessing Game (Python)
 
-A beginner-friendly **Python console game** where the computer generates a secret number, and the player has to guess it.  
-The game includes difficulty levels, scoring, and randomly generated clues to make it challenging and fun.
+A beginner-friendly console game in Python where the player guesses a secret number.  
+Includes difficulty levels, scoring, and helpful clues to keep the game interesting.
 
 ---
 
-## ✨ Features
-- Select your own number range
-- Three difficulty levels:
-  - Easy → 10 tries
-  - Medium → 7 tries
-  - Hard → 5 tries
-- Scoring system (start with 100 points, lose points for wrong guesses)
-- Random clues:
-  - Even or odd
-  - Multiple of 3 or 5
-  - Number of digits
-  - First and last digit
+## Features
+- Custom number range selection  
+- Three difficulty modes:
+  - Easy → 10 tries  
+  - Medium → 7 tries  
+  - Hard → 5 tries  
+- Scoring system (start with 100 points, lose points for incorrect guesses)  
+- Helpful clues such as:
+  - Even or odd  
+  - Multiple of 3 or 5  
+  - Number of digits  
+  - First and last digit  
 
 ---
 
-## ▶️ How to Play
-1. Clone this repository:
+## How to Play
+1. Clone the repository:
    ```bash
-   https://github.com/Siddharth-sk/Number-Guesser
+   git clone https://github.com/Siddharth-sk/Number-Guesser.git
+
+python beginner-project game number-guessing console-game student-project fun-project
