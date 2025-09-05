@@ -12,5 +12,5 @@ Contributions of all kinds are welcome — whether it's code, documentation, bug
 
 2. **Clone your fork**  
    ```bash
-   git clone https://github.com/Siddharth-sk/number-guesser.git
-   cd number-guesser
+   git clone https://github.com/Siddharth-sk/Number-Guesser.git
+   cd Number-Guesser
