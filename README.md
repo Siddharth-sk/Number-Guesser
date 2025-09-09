@@ -17,7 +17,7 @@ Includes difficulty levels, scoring, and helpful clues to keep the game interest
   - Multiple of 3 or 5  
   - Number of digits  
   - First and last digit
--I have used a module called random which I have learnt newly
+- I have used a module called random which I have learnt newly
 
 ---
 
