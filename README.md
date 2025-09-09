@@ -25,8 +25,12 @@ Includes difficulty levels, scoring, and helpful clues to keep the game interest
    ```bash
    git clone https://github.com/Siddharth-sk/Number-Guesser.git
 
-python beginner-project game number-guessing console-game student-project fun-project
-
 2. Gameplay example
+   ![Gameplay Screenshot](assets/screenshot.png)
+
+
+
+
+
    ![Gameplay Screenshot](.assets/screenshot.png)
 
