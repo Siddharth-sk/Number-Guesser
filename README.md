@@ -30,7 +30,7 @@ Includes difficulty levels, scoring, and helpful clues to keep the game interest
    
 ---
 
-###### If you like my project, please star it and don't forget to fork the repository
+**If you like my project, please star it and don't forget to fork the repository**
 
 ---
 
