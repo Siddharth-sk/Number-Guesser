@@ -22,11 +22,23 @@ Includes difficulty levels, scoring, and helpful clues to keep the game interest
 ---
 
 ## How to Play
-1. Clone the repository:
+1. Copy this link:
    ```bash
    git clone https://github.com/Siddharth-sk/Number-Guesser.git
 
-2. Gameplay example
+2. Paste this in the Windows Command Prompt
+
+3. And copy and paste this:
+   ```bash
+   cd Number-Guesser
+
+4. Now again copy and paste this:
+   ```bash
+   python Guessthenumber.py
+
+5. Now you are able to play the game. Make sure you have installed git in your desktop
+
+6. Gameplay example
    
    ![Game screenshot](assets/screenshot.png)
    
