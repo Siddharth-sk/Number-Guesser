@@ -16,7 +16,8 @@ Includes difficulty levels, scoring, and helpful clues to keep the game interest
   - Even or odd  
   - Multiple of 3 or 5  
   - Number of digits  
-  - First and last digit  
+  - First and last digit
+-I have used a module called random which I have learnt newly
 
 ---
 
