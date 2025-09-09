@@ -26,7 +26,7 @@ Includes difficulty levels, scoring, and helpful clues to keep the game interest
    git clone https://github.com/Siddharth-sk/Number-Guesser.git
 
 2. Gameplay example
-   !(assets/screenshot.png)
+   ![Game screenshot](assets/screenshot.png)
    
 ---
 
